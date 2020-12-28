@@ -1,0 +1,3 @@
+[submodule "medical-question-answer-data"]
+	path = medical-question-answer-data
+	url = git@github.com:LasseRegin/medical-question-answer-data.git
